@@ -3,4 +3,5 @@ Front-End-Mentor-Projekt - Single price grid component
 Aufgabe:
 https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc
 
-Lösung:
+Lösung: 
+https://robinho1997.github.io/Front-End-Mentor-Projekt-12/
